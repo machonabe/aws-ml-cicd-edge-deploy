@@ -8,8 +8,8 @@
 
 - [機械学習 CI/CD パイプラインデモ動画](https://amazon.awsapps.com/workdocs/index.html#/folder/652a9860849fd045714f702590b673db21f15f01625e212573d1ece91424346d)
 - [機械学習 CI/CD パイプラインデモ動画 解説スクリプト](https://quip-amazon.com/sU3pAGLbZ0de/20220527-CICD-)
-- [機械学習 CI/CD パイプラインサンプルコード Zip ファイル](https://amazon.awsapps.com/workdocs/index.html#/document/5a0bc02f7f362563f50bcaa7d88990a84fbe7eb2fd4a54f7af874b4f47252cf4)
-- [機械学習 CI/CD パイプライン解説資料](https://amazon.awsapps.com/workdocs/index.html#/folder/8e66bfa9c5b86d8440b6828ac85f8ba1cbec55802692c4598239c0479a414942)
+- [機械学習 CI/CD パイプラインサンプルコード Zip ファイル](https://collaborate-corp.amazon.com/nuxeo/ui/#!/browse/default-domain/workspaces/New%20Managed%20Content%20Workspace.1506032745336/ML%20CI-CD%20Edge%20Deploy%20Pipeline%20%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89)
+- [機械学習 CI/CD パイプライン解説資料](https://collaborate-corp.amazon.com/nuxeo/ui/#!/browse/default-domain/workspaces/New%20Managed%20Content%20Workspace.1506032745336/%20ML%20CI-CD%20Edge%20Deploy%20Pipeline%20%E8%A7%A3%E8%AA%ACPPT)
 
 デモセットの構築は、下記の手順で行います。
 1. 学習パイプラインで使う GitHub リポジトリの準備
