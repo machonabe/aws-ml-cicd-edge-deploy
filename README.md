@@ -24,7 +24,7 @@
 
 GitHub アカウント作成が完了したら、`aws-ml-cicd-edge-deploy` と `aws-ml-cicd-training-script` の２つのリポジトリを作成します。
 
-`aws-ml-cicd-edge-deploy` リポジトリには zip ファイルの中身をアップロードします。 `cdk_ml_cicd_pipeline/setup.sh` にある `PREFIX` をお好きなプレフィックスを指定して上書きします。変更を、 `main` ブランチへ `push` し更新して下さい。
+`aws-ml-cicd-edge-deploy` リポジトリには上記リンクのサンプルコードの zip ファイルの中身をアップロードします。 `cdk_ml_cicd_pipeline/setup.sh` にある `PREFIX` をお好きなプレフィックスを指定して上書きします。変更を、 `main` ブランチへ `push` し更新して下さい。
 
 続いて、`aws-ml-cicd-training-script` リポジトリには。`aws-ml-cicd-edge-deploy` リポジトリの `training_scripts_repository` ディレクトリの中身をコピーして main ブランチに push します。また作成したアカウント及び `aws-ml-cicd-training-script` リポジトリと、後に作成する ML CI/CD パイプラインを接続するために AWS CodePipeline  とのコネクションを作成作成します。ユーザーガイドの [GitHub の接続](https://docs.aws.amazon.com/ja_jp/codepipeline/latest/userguide/connections-github.html) を参考位に接続をし、Connection ARN をメモして下さい。
 
